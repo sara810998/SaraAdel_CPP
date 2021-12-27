@@ -1,0 +1,5 @@
+make.exe run PROJ_NAME=${fileDirname} -f D:\ITI_Tasks\C++\Makefile --dry-run --keep-going --print-directory
+make: Entering directory '/d/ITI_Tasks/C++'
+ileDirname/out.exe
+make: Leaving directory '/d/ITI_Tasks/C++'
+ 
